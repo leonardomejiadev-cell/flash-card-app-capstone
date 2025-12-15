@@ -83,7 +83,7 @@ The project focuses on three main technical areas:
 
 ## 🔗 Related Projects
 
-* **Password Manager** - Another GUI application focusing on JSON data management and security
+* [**Password Manager**](https://github.com/leonardomejiadev-cell/password-manager-gui) - Another GUI application focusing on JSON data management and security
 
 ## 👤 Author
 
